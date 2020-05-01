@@ -11,4 +11,4 @@ redirect_from:
 
 [Click to View My Up-to-date Curriculum Vitae [PDF]](http://sportsunrahul.github.io/files/Rahul_Comp_Vision.pdf)
 
-<!-- <embed src="http://sportsunrahulcom/files/Rahul_Comp_Vision.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://sportsunrahul.com/files/Rahul_Comp_Vision.pdf" width="650" height="1800" type='application/pdf'> -->
