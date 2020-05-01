@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "CV"
+<!--layout: archive-->
+title: "Rahul Mishra"
 permalink: /cv/
 author_profile: true
 redirect_from:
