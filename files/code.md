@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-permalink: /files/code.md
+permalink: /projects/
 ---
 
 K-Means Image Compression
