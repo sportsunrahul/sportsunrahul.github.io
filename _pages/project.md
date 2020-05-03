@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://sportsunrahul.github.io/files/a.md)
+[Click to see my projects](http://sportsunrahul.github.io/files/list.md)
 
-<!-- <embed src="http://sportsunrahul.com/files/Rahul_Comp_Vision.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://sportsunrahul.com/files/list.md" width="650" height="1800" type='application/md'> -->
