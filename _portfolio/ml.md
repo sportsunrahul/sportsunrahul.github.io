@@ -1,3 +1,10 @@
+---
+title: "Machine Learning"
+excerpt: "Some ML Projects<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+
 K-Means Image Compression
 <img src="https://github.com/sportsunrahul/sportsunrahul.github.io/blob/master/images/project/compressed_image0_R1.0.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 
