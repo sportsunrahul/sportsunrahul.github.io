@@ -1,7 +1,7 @@
 ---
 title: 'Projects'
-permalink: /projects/
 ---
+## permalink: /projects/
 
 K-Means Image Compression
 
