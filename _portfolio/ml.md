@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning"
-excerpt: "Some ML Projects<br/><img src='/images/project/NeuralNetwork.png' style="width:300px; height:300px>"
+excerpt: "Some ML Projects<br/><img src='/images/project/NeuralNetwork.png'>"
 collection: portfolio
 ---
 
