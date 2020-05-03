@@ -1,10 +1,7 @@
 ---
 layout: archive
-title: "Pojects"
+title: "ABC"
 permalink: /project/first/
-author_profile: true
-redirect_from:
-  - /project
 ---
 
 
