@@ -25,8 +25,8 @@ collection: portfolio
 
 Simple Baseline
 
-<img src="https://github.com/sportsunrahul/sportsunrahul.github.io/blob/master/images/project/posebaseline.PNG?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://github.com/sportsunrahul/sportsunrahul.github.io/blob/master/images/project/posebaselin.PNG?raw=true" alt="Photo" style="width: 650px;"/> 
 
 Using High-Resolution Network
 
-<img src="https://github.com/sportsunrahul/sportsunrahul.github.io/blob/master/images/project/posehr.PNG?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://github.com/sportsunrahul/sportsunrahul.github.io/blob/master/images/project/posehr.PNG?raw=true" alt="Photo" style="width: 650px;"/> 
