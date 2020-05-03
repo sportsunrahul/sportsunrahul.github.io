@@ -9,8 +9,9 @@ collection: portfolio
 
 Original Image
 
-<img src="https://github.com/sportsunrahul/sportsunrahul.github.io/blob/master/images/project/wolves-gray.jpg?raw=true" alt="Photo" style="width: 450px; height:450px;"/> 
+<img src="https://github.com/sportsunrahul/sportsunrahul.github.io/blob/master/images/project/wolves-gray.PNG?raw=true" alt="Photo" style="width: 450px; height:450px;"/> 
 
+Compressed Image
 
 <img src="https://github.com/sportsunrahul/sportsunrahul.github.io/blob/master/images/project/compressed_image0_R1.0.jpg?raw=true" alt="Photo" style="width: 450px; height:450px;"/> 
 
