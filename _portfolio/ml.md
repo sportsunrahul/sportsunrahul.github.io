@@ -1,9 +1,8 @@
 ---
 title: "Machine Learning"
-excerpt: "Some ML Projects<br/><img src='/images/500x300.png'>"
+excerpt: "Some ML Projects<br/><img src='/images/project/NeuralNetwork.png'>"
 collection: portfolio
 ---
-
 
 ## K-Means Image Compression
 
