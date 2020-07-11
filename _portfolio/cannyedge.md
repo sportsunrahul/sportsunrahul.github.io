@@ -4,7 +4,7 @@ collection: portfolio
 ---
 
 ## Canny Edge Detector
-![Link To Repo](https://github.com/sportsunrahul/SimpleAlgorithms/blob/master/cannyEdge.py)
+[Link To Repo](https://github.com/sportsunrahul/SimpleAlgorithms/blob/master/cannyEdge.py)
 
 Example 1
 
