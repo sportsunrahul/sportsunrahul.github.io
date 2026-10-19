@@ -1,7 +1,8 @@
 ---
 title: "Machine Learning"
-excerpt: "Some ML Projects<br/><img src='/images/project/NeuralNetwork.png'>"
+excerpt: "K-means image compression, local feature matching, and fundamental matrix estimation with RANSAC.<br/><img src='/images/project/NeuralNetwork.png'>"
 collection: portfolio
+order: 2
 ---
 
 ## K-Means Image Compression

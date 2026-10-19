@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rahul Mishra"
 title_separator          : "-"
 name                     : &name "Rahul Mishra"
-description              : &description "Personal Project Page"
+description              : &description "Machine Learning Engineer, Computer Vision"
 url                      : https://sportsunrahul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sportsunrahul.github.io"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Rahul Mishra"
   avatar           : "rahul2.jpg"
-  bio              : "Machine Learning and Computer Vision Enthusiast"
-  location         : "Raleigh, NC"
-  employer         :
+  bio              : "Senior Machine Learning Engineer, Computer Vision"
+  location         : "Hillsboro, OR"
+  employer         : "Cogniac"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :

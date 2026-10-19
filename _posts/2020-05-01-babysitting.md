@@ -2,9 +2,8 @@
 title: 'Training Neural Networks'
 permalink: /posts/baby-sitting/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - deep learning
+  - training
 ---
 
 This is one of the most essential part of training process. This needs one-time set up and has to be done almost always.

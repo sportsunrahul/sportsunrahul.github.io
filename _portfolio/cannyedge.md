@@ -1,6 +1,8 @@
 ---
 title: "Canny Edge Detector"
+excerpt: "A Canny edge detector implemented from scratch in Python."
 collection: portfolio
+order: 3
 ---
 
 ## Canny Edge Detector
