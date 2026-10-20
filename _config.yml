@@ -138,6 +138,10 @@ exclude:
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
   - assets/js/vendor
   - config
   - gulpfile.js
