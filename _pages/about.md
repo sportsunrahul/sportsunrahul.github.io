@@ -8,17 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Machine Learning Engineer at [Cogniac](https://cogniac.co/). I invent computer vision methods and ship them at scale. My work includes the training, evaluation, and inference platform behind 100+ production apps across 40+ customer organizations.
+I am a Senior Machine Learning Engineer at [Cogniac](https://cogniac.co/). I work on computer vision: I design new models and build the systems that train, evaluate, and run them in production for real customers.
 
 Before Cogniac, I was a Software Developer at Oracle Cloud Infrastructure, a Computer Vision / Deep Learning intern at Magic Leap, and a Design Engineer at Texas Instruments. I hold an M.S. in Electrical and Computer Engineering from [NC State University](https://www.ncsu.edu/).
 
 # Work Highlights
-- Unified multi-task YOLO architecture (detection, point counting, classification, instance segmentation) that powers 100+ production apps
-- Production inference stack with TensorRT (INT8/FP16), torch.compile, and GPU-side post-processing
-- Co-inventor of a sparse segmentation method for thin, dense objects (provisional patent filed) and of US patent [US10270338B2](https://patents.google.com/patent/US10270338B2)
-- Evaluation and release platform: metrics API, multi-objective leaderboard, and dataset-quality gate for every production model
+- Designed a single vision model that handles detection, counting, classification, and segmentation
+- Built the inference stack that runs our production models efficiently on GPUs
+- Co-invented a segmentation method for thin, closely packed objects (patent pending), and hold a granted US patent from Texas Instruments
+- Built the evaluation and release platform that every production model must pass
 
 # Interests
 - Computer Vision
-- Efficient Inference and ML Systems
-- Domain Adaptation
+- Vision Foundation Models
+- Vision-Language Models (VLMs)
+- World Models
+- Robotics
+- Edge Inference
